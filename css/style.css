@@ -87,3 +87,17 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.s-third {
+    background-color: #f4f4fd;
+}
+.title-of-thsection {
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    line-height: 1.11;
+}
+.lista-third-sec {
+    background-color: #ffffff;
+}
