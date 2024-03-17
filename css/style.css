@@ -14,6 +14,7 @@ body {
 }
 .logo-part-second {
     color: #2e2f42;
+    font-style: 18px;
 }
 .nv-list {
     font-weight: 500;
@@ -39,5 +40,5 @@ body {
     color: #404bbf;
 }
 .infodatelist:focus {
-    columns: #404bbf;
+    color: #404bbf;
 }
