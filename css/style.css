@@ -1,0 +1,43 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.logo-part-second {
+    color: #2e2f42;
+}
+.nv-list {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.nv-list:hover {
+    color: #404bbf;
+}
+.nv-list:focus {
+    color: #404bbf;
+}
+.infodate {
+    font-style: normal;
+}
+.infodatelist {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.infodatelist:hover {
+    color: #404bbf;
+}
+.infodatelist:focus {
+    columns: #404bbf;
+}
