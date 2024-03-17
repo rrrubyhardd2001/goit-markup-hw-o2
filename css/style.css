@@ -116,6 +116,14 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.parag-portfolio {
-    
+.footer-dno {
+    background-color: #2e2f42;
+}
+.logo-footer {
+    color: f4f4fd;
+}
+.pa-footer {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
