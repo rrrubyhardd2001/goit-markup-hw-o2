@@ -45,7 +45,7 @@ body {
     background-color: #2e2f42;
 }
 .main-title {
-    font-style: 56px;
+    font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
@@ -66,4 +66,20 @@ body {
 }
 .main-button:focus {
     background-color: #404bbf;
+}
+.title-second {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.list-section-two {
+
+}
+.ph-section-two {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
