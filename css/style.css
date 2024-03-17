@@ -6,7 +6,7 @@ body {
 .logo {
     font-family: Raleway, sans-serif;
     font-weight: 700;
-    font-style: 18px;
+    font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -14,7 +14,6 @@ body {
 }
 .logo-part-second {
     color: #2e2f42;
-    font-style: 18px;
 }
 .nv-list {
     font-weight: 500;
@@ -41,4 +40,30 @@ body {
 }
 .infodatelist:focus {
     color: #404bbf;
+}
+.section-first {
+    background-color: #2e2f42;
+}
+.maintitle {
+    font-style: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.main-button {
+    background-color: #4d5ae5;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.main-button:hover {
+    background-color: #404bbf;
+}
+.main-button:focus {
+    background-color: #404bbf;
 }
